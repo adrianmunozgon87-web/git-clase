@@ -1,2 +1,1 @@
-hola desde mi ordenador 
-y esto es de github
+hola desde github
